@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá, eu sou a Fernanda Souza 👋
 
-<!--
-**FernandaSouza91/FernandaSouza91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Estudante de Python Backend pelo programa CEPEDI no IFS**  
+📚 **Curso de SQL pela FGV**  
+🚀 Apaixonada por tecnologia, programação e desenvolvimento de software
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Skills
+- **Linguagens de programação:** Python  
+- **Desenvolvimento Backend:** Python, APIs  
+- **Banco de Dados:** SQL (SBeaver)  
+- **Ferramentas:** Git, GitHub, VS Code
+
+---
+
+## 🔹 Projetos
+
+### 💳 Simulador de Caixa Eletrônico
+- **Descrição:** Programa que simula o funcionamento de um caixa eletrônico, informando a quantidade de notas necessárias para um saque.
+- **Tecnologias:** Python
+- **Link:** [caixa.py](https://github.com/FernandaSouza91/CEPEDI-BACKEND-IFS/blob/main/exercicios%202/caixa.py)
+
+### 📊 Análise de Altura e Sexo
+- **Descrição:** Programa que lê a altura e o sexo de 50 pessoas, calculando a maior e menor altura, além da média das alturas por sexo.
+- **Tecnologias:** Python
+- **Link:** [altura.py](https://github.com/FernandaSouza91/CEPEDI-BACKEND-IFS/blob/main/exercicios%203/altura.py)
+
+---
+
+## 🔹 Contato
+📫 Email: fernandasouza91@email.com  
+💼 LinkedIn: [fernandasouza91](https://www.linkedin.com/in/fernandasouza91/)
+
+---
+
+## 🔹 GitHub Stats
+![Fernanda Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandaSouza91&show_icons=true&theme=radical)
