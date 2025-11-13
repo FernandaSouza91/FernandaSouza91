@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+eu+sou+a+Fernanda+Souza+👋)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+eu+sou+Fernanda+Souza+😊)
 
 💻 **Estudante de Python Backend pelo programa CEPEDI no IFS**  
 📚 **Curso de SQL pela FGV**  
