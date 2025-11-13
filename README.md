@@ -2,6 +2,7 @@
 
 💻 **Estudante de Python Backend pelo programa CEPEDI no IFS**  
 📚 **Curso de SQL pela FGV**  
+📚 **Formada em Analise e desenvolvimento de sistemas - UNINASSAU** 
 🚀 Apaixonada por tecnologia, programação e desenvolvimento de software
 
 ---
@@ -29,8 +30,8 @@
 ---
 
 ## 🔹 Contato
-📫 Email: fernandasouza91@email.com  
-💼 LinkedIn: [fernandasouza91](https://www.linkedin.com/in/fernandasouza91/)
+📫 Email: nandasouzadasilva@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/fernanda-souza-ti
 
 ---
 
