@@ -10,7 +10,7 @@
 ## 🔹 Skills
 - **Linguagens de programação:** Python  
 - **Desenvolvimento Backend:** Python, APIs  
-- **Banco de Dados:** SQL (SBeaver)  
+- **Banco de Dados:** SQL (DBeaver)  
 - **Ferramentas:** Git, GitHub, VS Code
 
 ---
